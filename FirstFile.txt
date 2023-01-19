@@ -1,5 +1,4 @@
 Good morning!!!
-my first commit is ready
+my first commit on branch B to get conflict.
 how about you.
 
-stash save demo
